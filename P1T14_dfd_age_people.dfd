@@ -1,0 +1,85 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+123
+" Sotware semester grade V.1.0  - Maker by : Juan Camilo Villamil Gonzalez - this software is to  know the age of a person"
+4
+1
+15
+"Type your age"
+5
+1
+5
+v_age
+7
+0
+1
+8
+v_age<=0
+7
+0
+1
+9
+v_age<=12
+7
+0
+1
+9
+v_age<=18
+7
+0
+1
+9
+v_age<=45
+7
+0
+1
+9
+v_age<=90
+7
+0
+1
+8
+v_age>90
+13
+4
+1
+19
+"You are matusalen"
+13
+13
+4
+1
+23
+"You are a older adult"
+13
+13
+4
+1
+17
+"You are a adult"
+13
+13
+4
+1
+22
+"You are a adolescent"
+13
+13
+4
+1
+20
+"You are a children"
+13
+13
+4
+1
+28
+"ERR: This age is not valid"
+13
+1

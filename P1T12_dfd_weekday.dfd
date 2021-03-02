@@ -1,0 +1,107 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+113
+" Sotware weekday  - Maker by : Juan Camilo Villamil Gonzalez - this software is to mention the days of the week"
+4
+1
+38
+"Type a number in a range from 1 to 7"
+5
+1
+5
+v_day
+7
+0
+1
+20
+v_day<=0 or v_day>=8
+7
+0
+1
+7
+v_day=1
+7
+0
+1
+7
+v_day=2
+7
+0
+1
+7
+v_day=3
+7
+0
+1
+7
+v_day=4
+7
+0
+1
+7
+v_day=5
+7
+0
+1
+7
+v_day=6
+7
+0
+1
+7
+v_day=7
+13
+4
+1
+23
+"This number is sunday"
+13
+13
+4
+1
+25
+"This number is saturday"
+13
+13
+4
+1
+23
+"This number is friday"
+13
+13
+4
+1
+25
+"This number is thursday"
+13
+13
+4
+1
+26
+"This number is wednesday"
+13
+13
+4
+1
+24
+"This number is tuesday"
+13
+13
+4
+1
+23
+"This number is monday"
+13
+13
+4
+1
+40
+"ERR: this number of the week not exist"
+13
+1
