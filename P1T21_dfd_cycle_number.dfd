@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+103
+"Software cycle V.10 - Maker by: Juan Camilo Villamil Gonzalez - this software is to show number cycle"
+4
+1
+30
+"Type the total number to use"
+5
+1
+9
+v_total_n
+7
+0
+1
+12
+v_total_n<=0
+8
+1
+1
+i
+1
+1
+1
+1
+9
+v_total_n
+1
+1
+1
+4
+1
+25
+"The number cycle is ", i
+10
+13
+4
+1
+72
+"ERR: This number is not valid because it is less than or equal to zero"
+13
+1
