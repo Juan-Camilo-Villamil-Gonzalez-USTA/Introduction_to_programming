@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+154
+"Software age V.10 - Maker by: Juan Camilo Villamil Gonzalez - this software use the year of birth to calculate age of a person - type your year of birth"
+5
+1
+11
+v_yearbirth
+7
+0
+1
+18
+v_yearbirth > 2021
+6
+1
+5
+v_age
+18
+2021 - v_yearbirth
+4
+1
+45
+" The age of person is ", v_age ," years old"
+13
+4
+1
+73
+"ERR: This year is not valid - the year of birth should be less tan 2021"
+13
+1

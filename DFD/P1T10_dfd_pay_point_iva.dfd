@@ -1,0 +1,72 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+128
+"Software paypoint iva V.1.0 - Maker by: Juan Camilo Villamil Gonzalez - this software is to calculate the invoce of 4 products"
+4
+1
+24
+"type the first product"
+5
+1
+2
+p1
+4
+1
+25
+"type the second product"
+5
+1
+2
+p2
+4
+1
+24
+"type the third product"
+5
+1
+2
+p3
+4
+1
+25
+"type the fourth product"
+5
+1
+2
+p4
+7
+0
+1
+32
+p1<=0 or p2<=0 or p3<=0 or p4<=0
+6
+3
+5
+sum_p
+11
+p1+p2+p3+p4
+5
+Iva19
+10
+sum_p*0.19
+5
+Total
+11
+sum_p+Iva19
+4
+1
+114
+"The gross value is $ ",sum_p," the increasing is of  IVA of 19% that is: $ ",Iva19," the total value is $ ",Total
+13
+4
+1
+52
+"ERR: Someone of the products is less or equal to 0"
+13
+1

@@ -1,0 +1,77 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+153
+"Software lower than V.10 - Maker by: Juan Camilo Villamil Gonzalez - this software is to calculate the sum and the average of numbers greather than 100"
+6
+3
+5
+v_sum
+1
+0
+9
+v_average
+1
+0
+7
+v_count
+1
+0
+4
+1
+15
+"Type a number"
+5
+1
+8
+v_number
+9
+1
+12
+v_number>100
+6
+2
+5
+v_sum
+14
+v_sum+v_number
+7
+v_count
+9
+v_count+1
+4
+1
+15
+"Type a number"
+5
+1
+8
+v_number
+11
+7
+0
+1
+9
+v_count=0
+6
+1
+9
+v_average
+13
+v_sum/v_count
+4
+1
+93
+"The sum is ", v_sum ," and the average is ", v_average ," for ", v_count ," numbers entered"
+13
+4
+1
+57
+"ERR: The total number greater than 100 is equal to zero"
+13
+1

@@ -1,0 +1,101 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+145
+" Sotware number largest V.1.0  - Maker by : Juan Camilo Villamil Gonzalez - this software is to determine which is the largest of three numbers"
+4
+1
+19
+"Type first number"
+5
+1
+4
+v_n1
+4
+1
+20
+"Type second number"
+5
+1
+4
+v_n2
+4
+1
+19
+"Type third number"
+5
+1
+4
+v_n3
+7
+0
+1
+23
+v_n1=v_n2 and v_n1=v_n3
+7
+0
+1
+23
+v_n1>v_n2 and v_n1>v_n3
+7
+0
+1
+23
+v_n2>v_n1 and v_n2>v_n3
+7
+0
+1
+23
+v_n3>v_n2 and v_n3>v_n1
+7
+0
+1
+23
+v_n1=v_n2 or v_n1=v_n3 
+7
+0
+1
+9
+v_n2=v_n3
+13
+4
+1
+38
+"The number ", v_n2 ," is the largest"
+13
+13
+4
+1
+38
+"The number ", v_n1 ," is the largest"
+13
+13
+4
+1
+38
+"The number ", v_n3 ," is the largest"
+13
+13
+4
+1
+38
+"The number ", v_n2 ," is the largest"
+13
+13
+4
+1
+38
+"The number ", v_n1 ," is the largest"
+13
+13
+4
+1
+29
+"The three numbers are equal"
+13
+1
